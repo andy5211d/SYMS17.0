@@ -1,5 +1,8 @@
-The SYMS17.0 Control PCB (2000802731) used a number of gas boilers.   Includes details of some capacitors that may require changing and relevant voltages around the PCB.  Check your board as this is just my guess as to the details and circuit!  
+The SYMS17.0 Control PCB (2000802731) used in a number of gas boilers.  This board has voltages that WILL KILL YOU of you touch the HV side.  
 
-This is an unregulated SMPS, in that there is NO feedback between the secondary voltages and the switcher drive.  The main LV DC is around 40V with the boiler quiescent, (note the smoothing capacitors for this are 35V working!), and during operation drops around 30V dependent upon fan speed.  The opto coupler U102 provides the controlling micro with the AC input and HV DC values, or at least that's my assumption from tracing tracks on the board!  
+Included are details of some capacitors that may require changing if the board is faulty.  I change the five main capacitors as a matter of course.  A fault in the HV side (blown switcher) will often take out tracks and the through-hole plating!  
 
-I have noticed at least three versions of the board but seem interchangeable in some boilers (see bottom left corner). Most variations are around the regulator U503 which new boards seem to omit or have been designed out of the layout.  
+Also included are relevant voltages around the PCB.  Check your board as this is just my guess as to the details and circuit!  
+
+This is an unregulated SMPS, in that there is NO feedback between the secondary voltages and the switcher drive.  The main LV DC is around 40V with the boiler quiescent, (note the smoothing capacitors for this are 35V working!), and during operation drops to around 30V dependent upon fan speed.  The second LV DC is around 12V dropping to 9V dependent upon fan speed.  Two other voltages, 18V and 5V are used and these are from regulators and thus stable irrespective of the fan speed.  There are probably others!  The opto coupler U102 provides the controlling micro with the AC input and HV DC values, or at least that's my assumption from tracing tracks on the board!.
+I have noticed at least three versions of the board (see number at the bottom left corner). Most variations are around the regulator U503 which new boards seem to omit or has been designed out of the layout.  
