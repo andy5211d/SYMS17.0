@@ -29,11 +29,28 @@
      inkscape:cy="415.02683"
      inkscape:window-width="2903"
      inkscape:window-height="2023"
-     inkscape:window-x="3948"
-     inkscape:window-y="68"
+     inkscape:window-x="550"
+     inkscape:window-y="31"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" /><defs
+     inkscape:current-layer="layer2"
+     showgrid="false" /><defs
      id="defs1"><marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Stylized triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"><path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4" /></marker><marker
        style="overflow:visible"
        id="marker44"
        refX="0"
@@ -226,13 +243,13 @@
          sodipodi:role="line"
          id="tspan137">C708, 812, 816, 817, 823 = 10uF 63V</tspan><tspan
          sodipodi:role="line"
-         id="tspan138"></tspan><tspan
+         id="tspan138" /><tspan
          sodipodi:role="line"
          id="tspan139">T705 = C33725   / BC337</tspan><tspan
          sodipodi:role="line"
          id="tspan140">T706 = BSN254A / BS107A</tspan><tspan
          sodipodi:role="line"
-         id="tspan141"></tspan><tspan
+         id="tspan141" /><tspan
          sodipodi:role="line"
          id="tspan142">User Interface uP = PIC16C72A-04</tspan></text><text
        xml:space="preserve"
@@ -258,41 +275,25 @@
        y="68.95182"
        id="text13"><tspan
          sodipodi:role="line"
-         id="tspan74"
-         x="16.909643"
-         y="68.95182">D100 = 1N4007</tspan><tspan
+         id="tspan25">D100 = 1N4007</tspan><tspan
          sodipodi:role="line"
-         id="tspan111"
-         x="16.909643"
-         y="72.92057">Z100 = ?</tspan><tspan
+         id="tspan26">Z100 = ?</tspan><tspan
          sodipodi:role="line"
-         id="tspan112"
-         x="16.909643"
-         y="76.88932">U102 = 4N35</tspan><tspan
+         id="tspan27">U102 = 4N35</tspan><tspan
          sodipodi:role="line"
-         id="tspan113"
-         x="16.909643"
-         y="80.85807">U500 = L78L05</tspan><tspan
+         id="tspan28">U500 = L78L05</tspan><tspan
          sodipodi:role="line"
-         id="tspan114"
-         x="16.909643"
-         y="84.82682">U503 = LM317?</tspan><tspan
+         id="tspan29">U503 = LM317?</tspan><tspan
          sodipodi:role="line"
-         id="tspan115"
-         x="16.909643"
-         y="88.79557">U800 = L7818CV</tspan><tspan
+         id="tspan30">U800 = L7818CV</tspan><tspan
          sodipodi:role="line"
-         id="tspan116"
-         x="16.909643"
-         y="92.76432">U801 = TOP247YN</tspan><tspan
+         id="tspan31">U801 = TOP247YN</tspan><tspan
          sodipodi:role="line"
-         id="tspan117"
-         x="16.909643"
-         y="96.73307">T100 = KSP44-028 or MPSA44</tspan><tspan
+         id="tspan32">T100 = KSP44-028 or MPSA44</tspan><tspan
          sodipodi:role="line"
-         id="tspan118"
-         x="16.909643"
-         y="100.70182">Z800 = BZX55C 7V5</tspan></text><text
+         id="tspan33">Z800 = BZX55C 7V5</tspan><tspan
+         sodipodi:role="line"
+         id="tspan34">uP     = PIC16C72A-04</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.264583"
        x="114.81046"
@@ -379,9 +380,7 @@
        y="176.52682"
        id="text17"><tspan
          sodipodi:role="line"
-         id="tspan193"
-         x="147.52454"
-         y="176.52682">T100 &amp; U102</tspan></text><path
+         id="tspan35">T100 &amp; U102 &amp; Z100 &amp; D100</tspan></text><path
        style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.262577px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#RoundedArrow)"
        d="m 147.47712,170.61721 -33.34167,-0.52346"
        id="path17"
@@ -530,7 +529,7 @@
          sodipodi:role="line"
          id="tspan266">3 = Black    = Ground       2</tspan><tspan
          sodipodi:role="line"
-         id="tspan267"></tspan><tspan
+         id="tspan267" /><tspan
          sodipodi:role="line"
          id="tspan268">1 to Grd  &gt; 1M Ohm</tspan><tspan
          sodipodi:role="line"
@@ -705,32 +704,17 @@
        id="text226"
        transform="scale(0.99157213,1.0084995)"><tspan
          sodipodi:role="line"
-         id="tspan120"
-         x="121.25573"
-         y="93.885658"
-         style="stroke-width:0.266832">Busy</tspan><tspan
+         id="tspan46">Busy</tspan><tspan
          sodipodi:role="line"
-         id="tspan121"
-         x="121.25573"
-         y="97.44342"
-         style="stroke-width:0.266832">Clock</tspan><tspan
+         id="tspan47">Clock</tspan><tspan
          sodipodi:role="line"
-         id="tspan122"
-         x="121.25573"
-         y="101.00118"
-         style="stroke-width:0.266832">Data?</tspan><tspan
+         id="tspan48">Data</tspan><tspan
          sodipodi:role="line"
-         id="tspan123"
-         x="121.25573"
-         y="104.55894"
-         style="stroke-width:0.266832">0V, Grd</tspan><tspan
+         id="tspan49">0V, Grd</tspan><tspan
          sodipodi:role="line"
-         id="tspan124"
-         x="121.25573"
-         y="108.11671"
-         style="stroke-width:0.266832">TxD</tspan></text><path
-       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.261283px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#RoundedArrow)"
-       d="m 103.81283,116.93468 -0.13784,36.61436"
+         id="tspan50">Data</tspan></text><path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.268961px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="M 103.78941,116.77083 103.67508,163.546"
        id="path229"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" /><rect
@@ -1030,4 +1014,16 @@
        y="291.28577"
        id="text1076"><tspan
          sodipodi:role="line"
-         id="tspan144">ACH V1.0 2024/12/30 Boiler PCB Components.svg</tspan></text></g></svg>
+         id="tspan144">ACH V1.0 2024/12/30 Boiler PCB Components.svg</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.264583"
+       x="121.72884"
+       y="132.03517"
+       id="text36"><tspan
+         sodipodi:role="line"
+         id="tspan36">T705 &amp; T706</tspan></text><path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.248111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ArrowTriangleStylized)"
+       d="m 121.39901,132.52388 4.30845,12.37134"
+       id="path36"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" /></g></svg>

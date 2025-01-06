@@ -26,7 +26,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="2.236"
      inkscape:cx="493.06798"
-     inkscape:cy="301.87835"
+     inkscape:cy="444.99106"
      inkscape:window-width="2903"
      inkscape:window-height="2023"
      inkscape:window-x="516"
@@ -513,65 +513,35 @@
        y="49.624783"
        id="text134"><tspan
          sodipodi:role="line"
-         id="tspan647"
-         x="11.576933"
-         y="49.624783">GAS VALVE (J1)  Water Temp</tspan><tspan
+         id="tspan22">GAS VALVE (J1)  Water Temp</tspan><tspan
          sodipodi:role="line"
-         id="tspan648"
-         x="11.576933"
-         y="53.152557">Pin            On    40deg 20deg</tspan><tspan
+         id="tspan25">Pin            On    40deg 20deg</tspan><tspan
          sodipodi:role="line"
-         id="tspan649"
-         x="11.576933"
-         y="56.680332">1       =     5V     5V     5V</tspan><tspan
+         id="tspan26">1       =     5V     5V     5V</tspan><tspan
          sodipodi:role="line"
-         id="tspan650"
-         x="11.576933"
-         y="60.208111">2       =     0V</tspan><tspan
+         id="tspan27">2       =     0V</tspan><tspan
          sodipodi:role="line"
-         id="tspan651"
-         x="11.576933"
-         y="63.735882">3       =     0V</tspan><tspan
+         id="tspan28">3       =     0V</tspan><tspan
          sodipodi:role="line"
-         id="tspan652"
-         x="11.576933"
-         y="67.263657">4  bk  =             3V     3V4</tspan><tspan
+         id="tspan29">4  b   =             3V     3V4</tspan><tspan
          sodipodi:role="line"
-         id="tspan653"
-         x="11.576933"
-         y="70.791428">5  w   =             3V4   3V4</tspan><tspan
+         id="tspan30">5  w   =            3V4   3V4</tspan><tspan
          sodipodi:role="line"
-         id="tspan654"
-         x="11.576933"
-         y="74.319206">6  bk  =     0V</tspan><tspan
+         id="tspan31">6  b   =     0V</tspan><tspan
          sodipodi:role="line"
-         id="tspan655"
-         x="11.576933"
-         y="77.846977">7       =     0V</tspan><tspan
+         id="tspan32">7       =     0V</tspan><tspan
          sodipodi:role="line"
-         id="tspan656"
-         x="11.576933"
-         y="81.374756">8       =     40V   32V   32V</tspan><tspan
+         id="tspan33">8       =     40V   32V   32V</tspan><tspan
          sodipodi:role="line"
-         id="tspan657"
-         x="11.576933"
-         y="84.902527">9   g  =     0V     0V     0V</tspan><tspan
+         id="tspan34">9   g  =     0V     0V     0V</tspan><tspan
          sodipodi:role="line"
-         id="tspan658"
-         x="11.576933"
-         y="88.430305">10 w  =     0V   -13V</tspan><tspan
+         id="tspan35">10 w  =     0V   -13V</tspan><tspan
          sodipodi:role="line"
-         id="tspan659"
-         x="11.576933"
-         y="91.958076">11     =   0.09V</tspan><tspan
+         id="tspan36">11 bk =   0.09V</tspan><tspan
          sodipodi:role="line"
-         id="tspan660"
-         x="11.576933"
-         y="95.485855">12     =   0.09V</tspan><tspan
+         id="tspan37">12 bk =   0.09V</tspan><tspan
          sodipodi:role="line"
-         id="tspan661"
-         x="11.576933"
-         y="99.013634">13     =   0.06V</tspan></text><text
+         id="tspan38">13     =   0.06V</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
        x="62.576687"
@@ -990,33 +960,19 @@
        y="78.891464"
        id="text853"><tspan
          sodipodi:role="line"
-         id="tspan871"
-         x="62.103371"
-         y="78.891464">USER I/F  (J13)</tspan><tspan
+         id="tspan50">USER I/F  (J13)</tspan><tspan
          sodipodi:role="line"
-         id="tspan872"
-         x="62.103371"
-         y="82.419235">1    =   0V</tspan><tspan
+         id="tspan51">1    =   0V</tspan><tspan
          sodipodi:role="line"
-         id="tspan873"
-         x="62.103371"
-         y="85.947014">2    =   5V0</tspan><tspan
+         id="tspan52">2    =   5V0</tspan><tspan
          sodipodi:role="line"
-         id="tspan874"
-         x="62.103371"
-         y="89.474785">3    =  2V Appx</tspan><tspan
+         id="tspan53">3    =  2V Appx</tspan><tspan
          sodipodi:role="line"
-         id="tspan875"
-         x="62.103371"
-         y="93.002563">4    =  5V0</tspan><tspan
+         id="tspan54">4    =  5V0</tspan><tspan
          sodipodi:role="line"
-         id="tspan876"
-         x="62.103371"
-         y="96.530334">5    =  N/C?</tspan><tspan
+         id="tspan55">5    =  N/C</tspan><tspan
          sodipodi:role="line"
-         id="tspan877"
-         x="62.103371"
-         y="100.05811">6    =  14-16V</tspan></text><text
+         id="tspan56">6    =  Data</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.264583"
        x="156.8763"
@@ -1036,7 +992,7 @@
          sodipodi:role="line"
          id="tspan1019">U102 P6 with multimeter usually makes the burner (uP) hiccup!</tspan><tspan
          sodipodi:role="line"
-         id="tspan1020"></tspan><tspan
+         id="tspan1020" /><tspan
          sodipodi:role="line"
          id="tspan1021">Note: C809 &amp; C810 are 35V working as supplied.  Boiler on but no heat then supply</tspan><tspan
          sodipodi:role="line"
