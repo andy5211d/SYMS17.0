@@ -26,7 +26,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="2.236"
      inkscape:cx="492.62075"
-     inkscape:cy="415.02683"
+     inkscape:cy="558.13953"
      inkscape:window-width="2903"
      inkscape:window-height="2023"
      inkscape:window-x="550"
@@ -1099,7 +1099,7 @@
          sodipodi:role="line"
          id="tspan409"
          x="135.1675"
-         y="42.883167"></tspan><tspan
+         y="42.883167" /><tspan
          sodipodi:role="line"
          id="tspan410"
          x="135.1675"
@@ -1143,4 +1143,11 @@
          sodipodi:role="line"
          id="tspan420"
          x="135.1675"
-         y="81.68869">x = Factory Position (all off)</tspan></text></g></svg>
+         y="81.68869">x = Factory Position (all off)</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.264583"
+       x="60.564507"
+       y="133.86746"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19">J10ZH</tspan></text></g></svg>
