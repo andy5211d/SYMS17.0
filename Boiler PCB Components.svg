@@ -26,7 +26,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="2.236"
      inkscape:cx="492.62075"
-     inkscape:cy="558.13953"
+     inkscape:cy="343.47048"
      inkscape:window-width="2903"
      inkscape:window-height="2023"
      inkscape:window-x="550"
@@ -275,25 +275,27 @@
        y="68.95182"
        id="text13"><tspan
          sodipodi:role="line"
-         id="tspan25">D100 = 1N4007</tspan><tspan
+         id="tspan11">D100 = 1N4007</tspan><tspan
          sodipodi:role="line"
-         id="tspan26">Z100 = ?</tspan><tspan
+         id="tspan17">Z100 = ?</tspan><tspan
          sodipodi:role="line"
-         id="tspan27">U102 = 4N35</tspan><tspan
+         id="tspan18">U102 = 4N35</tspan><tspan
          sodipodi:role="line"
-         id="tspan28">U500 = L78L05</tspan><tspan
+         id="tspan20">U500 = L78L05</tspan><tspan
          sodipodi:role="line"
-         id="tspan29">U503 = LM317?</tspan><tspan
+         id="tspan21">U503 = LM317?</tspan><tspan
          sodipodi:role="line"
-         id="tspan30">U800 = L7818CV</tspan><tspan
+         id="tspan22">U800 = L7818CV</tspan><tspan
          sodipodi:role="line"
-         id="tspan31">U801 = TOP247YN</tspan><tspan
+         id="tspan23">U801 = TOP247YN</tspan><tspan
          sodipodi:role="line"
-         id="tspan32">T100 = KSP44-028 or MPSA44</tspan><tspan
+         id="tspan24">T100 = KSP44-028 or MPSA44</tspan><tspan
          sodipodi:role="line"
-         id="tspan33">Z800 = BZX55C 7V5</tspan><tspan
+         id="tspan25">Z800 = BZX55C 7V5</tspan><tspan
          sodipodi:role="line"
-         id="tspan34">uP     = PIC16C72A-04</tspan></text><text
+         id="tspan26">uP     = M38039FFLKP</tspan><tspan
+         sodipodi:role="line"
+         id="tspan27">HMI uP  = PIC16C72A-04</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.264583"
        x="114.81046"

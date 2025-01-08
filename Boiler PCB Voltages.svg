@@ -25,12 +25,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.236"
-     inkscape:cx="492.84436"
-     inkscape:cy="373.88193"
+     inkscape:cx="492.62075"
+     inkscape:cy="410.10733"
      inkscape:window-width="2903"
      inkscape:window-height="2023"
-     inkscape:window-x="516"
-     inkscape:window-y="46"
+     inkscape:window-x="529"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer2"
      showgrid="false" /><defs
@@ -545,21 +545,21 @@
          id="tspan38">13     =   0.06V</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
-       x="62.813343"
-       y="55.817329"
+       x="62.576683"
+       y="53.924068"
        id="text139"><tspan
          sodipodi:role="line"
-         id="tspan20">CONTROLS I/F  (J15)</tspan><tspan
+         id="tspan5">230V CONTROLS I/F  (J15)</tspan><tspan
          sodipodi:role="line"
-         id="tspan21">1      =  13V-18V</tspan><tspan
+         id="tspan6">1      =  13V-18V</tspan><tspan
          sodipodi:role="line"
-         id="tspan39">2 gn  =  36V</tspan><tspan
+         id="tspan7">2 gn  =  36V</tspan><tspan
          sodipodi:role="line"
-         id="tspan40">3 r    =  40V</tspan><tspan
+         id="tspan8">3 r    =  40V</tspan><tspan
          sodipodi:role="line"
-         id="tspan46">4      =  30V</tspan><tspan
+         id="tspan9">4      =  30V</tspan><tspan
          sodipodi:role="line"
-         id="tspan47">5 w   =  0V </tspan></text><text
+         id="tspan11">5 w   =  Gnd </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
        x="128.09142"
@@ -693,7 +693,7 @@
          sodipodi:role="line"
          id="tspan975"
          x="122.71871"
-         y="90.15992">Data?</tspan><tspan
+         y="90.15992">Data</tspan><tspan
          sodipodi:role="line"
          id="tspan976"
          x="122.71871"
@@ -701,7 +701,7 @@
          sodipodi:role="line"
          id="tspan977"
          x="122.71871"
-         y="97.215469">TxD</tspan></text><path
+         y="97.215469">Data</tspan></text><path
        style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.271477px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#RoundedArrow)"
        d="m 103.79011,106.06554 -0.11507,47.35013"
        id="path229"
@@ -818,29 +818,29 @@
          y="97.649345">?</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
-       x="100.26046"
-       y="25.170151"
+       x="100.49712"
+       y="22.566916"
        id="text18"><tspan
          sodipodi:role="line"
          id="tspan1058"
-         x="100.26046"
-         y="25.170151">The 12V and 40V supplies are from separate secondary windings.  This </tspan><tspan
+         x="100.49712"
+         y="22.566916">The 12V and 40V supplies are from separate secondary windings.  This </tspan><tspan
          sodipodi:role="line"
          id="tspan1059"
-         x="100.26046"
-         y="28.697926">is NOT a regulated SMPS.  +5V is derived from the 12V rail.  +18V is</tspan><tspan
+         x="100.49712"
+         y="26.09469">is NOT a regulated SMPS.  +5V is derived from the 12V rail.  +18V is</tspan><tspan
          sodipodi:role="line"
          id="tspan1060"
-         x="100.26046"
-         y="32.2257">derived from the 40V rail.  All supplies share the common Gnd or 0V, </tspan><tspan
+         x="100.49712"
+         y="29.622465">derived from the 40V rail.  All supplies share the common Gnd or 0V, </tspan><tspan
          sodipodi:role="line"
          id="tspan1061"
-         x="100.26046"
-         y="35.753475">connection P8 on J3Z1.  Mains input to PCB from switch is H8, bottom</tspan><tspan
+         x="100.49712"
+         y="33.150242">connection P8 on J3Z1.  Mains input to PCB from switch is H8, bottom</tspan><tspan
          sodipodi:role="line"
          id="tspan1062"
-         x="100.26046"
-         y="39.28125">right corner, marked ALIM 230V in this diagram.</tspan></text><text
+         x="100.49712"
+         y="36.678017">right corner, marked ALIM 230V in this diagram.</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:0.264583"
        x="156.63965"
@@ -1101,4 +1101,48 @@
          sodipodi:role="line"
          id="tspan19"
          x="62.813343"
-         y="96.315765">4  =  </tspan></text></g></svg>
+         y="96.315765">4  =  </tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+       x="105.41174"
+       y="44.221104"
+       id="text47"><tspan
+         sodipodi:role="line"
+         id="tspan119"
+         x="105.41174"
+         y="44.221104">230V CONTROLS BOARD</tspan><tspan
+         sodipodi:role="line"
+         id="tspan120"
+         x="105.41174"
+         y="47.748878">            On      Heat</tspan><tspan
+         sodipodi:role="line"
+         id="tspan121"
+         x="105.41174"
+         y="51.276653">1 gn =  37V     1V0   </tspan><tspan
+         sodipodi:role="line"
+         id="tspan122"
+         x="105.41174"
+         y="54.804428">2     =  38V      0V</tspan><tspan
+         sodipodi:role="line"
+         id="tspan123"
+         x="105.41174"
+         y="58.332203">3 r   =  40V     40V</tspan><tspan
+         sodipodi:role="line"
+         id="tspan124"
+         x="105.41174"
+         y="61.859978">4     =  Gnd     0V</tspan><tspan
+         sodipodi:role="line"
+         id="tspan125"
+         x="105.41174"
+         y="65.387756">5 w  =  Gnd     Gnd</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+       x="135.28581"
+       y="55.107353"
+       id="text46"><tspan
+         sodipodi:role="line"
+         id="tspan60">A low voltage thermostat can </tspan><tspan
+         sodipodi:role="line"
+         id="tspan61">be connected to Pins 2 and 4 of</tspan><tspan
+         sodipodi:role="line"
+         id="tspan62">the connector. Heat = P2 to Gnd</tspan></text></g></svg>
